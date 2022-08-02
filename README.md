@@ -17,11 +17,11 @@
 
 Users should be able to:
 
-- Ver la pagina desde cualquier dispositivo
-- Ver animaciones en tiempo real y funcionales
-- Ver una sección de artículos de ejemplo
-- Ver menus de navegación que no contiene links
-- Ver un mapa integrado de Google
+- View the page from any device
+- View real-time and functional animations
+- See a section of sample articles
+- See navigation menus that do not contain links
+- View an integrated Google map
 
 ### Screenshot
 
